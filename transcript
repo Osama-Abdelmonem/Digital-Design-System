@@ -1,0 +1,57 @@
+# vsim work.System_tb 
+# Start time: 10:36:26 on Oct 05,2021
+# Loading work.System_tb
+# Loading work.System_Top
+# Loading work.FSM_Controller
+# Loading work.Save_State_Unit
+# Loading work.FSM_Control_Unit
+# Loading work.RegFile
+# Loading work.ALU
+# Loading work.UART
+# Loading work.Parity
+# Loading work.Counter_Data
+# Loading work.Serializer
+# Loading work.FSM_Data_Transmission
+# Loading work.CLK_GATE
+# Loading work.Clock_Divider
+run -all
+# ------------------- Test Case           1 ---------------
+#  Test Case :           1 ; Transmitted Frame :           1 is Passed
+#  Test Case :           1 ; Transmitted Frame :           2 is Passed
+# ------------------- Test Case           2 ---------------
+#  Test Case :           2 ; Transmitted Frame :           1 is Passed
+#  Test Case :           2 ; Transmitted Frame :           2 is Passed
+# ------------------- Test Case           3 ---------------
+#  Test Case :           3 ; Transmitted Frame :           1 is Passed
+#  Test Case :           3 ; Transmitted Frame :           2 is Passed
+#  Test Case :           3 ; Transmitted Frame :           3 is Passed
+#  Test Case :           3 ; Transmitted Frame :           4 is Passed
+#  Test Case :           3 ; Transmitted Frame :           5 is Passed
+#  Test Case :           3 ; Transmitted Frame :           6 is Passed
+# ------------------- Test Case           4 ---------------
+#  Test Case :           4 ; Transmitted Frame :           1 is Passed
+#  Test Case :           4 ; Transmitted Frame :           2 is Passed
+#  Test Case :           4 ; Transmitted Frame :           3 is Passed
+#  Test Case :           4 ; Transmitted Frame :           4 is Passed
+#  Test Case :           4 ; Transmitted Frame :           5 is Passed
+# ------------------- Test Case           5 ---------------
+#  Test Case :           5 ; Transmitted Frame :           1 is Passed
+#  Test Case :           5 ; Transmitted Frame :           2 is Passed
+#  Test Case :           5 ; Transmitted Frame :           3 is Passed
+#  Test Case :           5 ; Transmitted Frame :           4 is Passed
+#  Test Case :           5 ; Transmitted Frame :           5 is Passed
+#  Test Case :           5 ; Transmitted Frame :           6 is Passed
+#  Test Case :           5 ; Transmitted Frame :           7 is Passed
+#  Test Case :           5 ; Transmitted Frame :           8 is Passed
+#  Test Case :           5 ; Transmitted Frame :           9 is Passed
+#  Test Case :           5 ; Transmitted Frame :          10 is Passed
+#  Test Case :           5 ; Transmitted Frame :          11 is Passed
+#  Test Case :           5 ; Transmitted Frame :          12 is Passed
+#  Test Case :           5 ; Transmitted Frame :          13 is Passed
+#  Test Case :           5 ; Transmitted Frame :          14 is Passed
+#  Test Case :           5 ; Transmitted Frame :          15 is Passed
+# ** Note: $stop    : ./System_tb.v(99)
+#    Time: 50150 ms  Iteration: 1  Instance: /System_tb
+# Break in Module System_tb at ./System_tb.v line 99
+# End time: 10:36:55 on Oct 05,2021, Elapsed time: 0:00:29
+# Errors: 0, Warnings: 0
